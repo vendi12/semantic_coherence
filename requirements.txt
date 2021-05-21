@@ -35,7 +35,7 @@ scipy==1.0.0
 six==1.11.0
 smart-open==1.5.6
 tensorboard==1.6.0
-tensorflow==1.6.0
+tensorflow==2.5.0
 termcolor==1.1.0
 unicodecsv==0.14.1
 urllib3==1.22
